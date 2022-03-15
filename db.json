@@ -1,0 +1,53 @@
+{
+"menu": [
+    {
+      "img": "img/dali.jpg",
+      "altimg": "salvador dali",
+      "descr":"Salvador Dali"
+    },
+    {
+      "img": "img/large.jpg",
+      "altimg": "neomodernism",
+      "descr": "Modern art example"
+
+    },
+    {
+      "img": "img/int.jpg",
+      "altimg": "artsy",
+      "descr": "another example"
+    },
+    {
+      "img": "img/modern.jpg",
+      "altimg": "artsy",
+      "descr": "another example of example"
+    },
+    {
+      "img": "img/nepr.jpg",
+      "altimg": "artsy",
+      "descr": "another example of example"
+    },
+    {
+      "img": "img/nft.jpg",
+      "altimg": "artsy",
+      "descr": "another example of example"
+    },
+    {
+      "img": "img/niko.jpg",
+      "altimg": "artsy",
+      "descr": "another example of example"
+    },
+    {
+      "img": "img/picasso.jpg",
+      "altimg": "artsy",
+      "descr": "another example of example"
+    },
+    {
+      "img": "img/int.jpg",
+      "altimg": "artsy",
+      "descr": "another example of example"
+    }
+  ],
+  "requests": [
+      
+]
+}
