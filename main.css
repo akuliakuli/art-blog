@@ -174,10 +174,13 @@ footer{
 }
 .date{
     display: flex;
+    background-color: #888;
+    
 }
-footer ul li{
+.date > *{
     font-size: 0.5em;
     list-style-type:none;
+    
     margin-right:1.2em;
 }
 .show{
